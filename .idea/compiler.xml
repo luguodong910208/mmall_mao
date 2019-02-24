@@ -13,4 +13,9 @@
       <module name="mmall" target="1.7" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mmall" options="-extdirs E:\JavaLearning\mmall_mao/src/main/webapp/WEB-INF/lib" />
+    </option>
+  </component>
 </project>
